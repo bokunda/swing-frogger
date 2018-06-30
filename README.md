@@ -18,7 +18,7 @@ The player controls the frog at the bottom of the screen. The goal is to arrive 
 When the game is started in background you can hear original sound of the Frogger game.
 
 ## Screenshots:
-<center>
+
 [![Screen Shot](https://i.imgur.com/4UPXyqP.png)](#)<br>
 Initial screen<br><br>
 
@@ -27,7 +27,7 @@ You win<br><br>
 
 [![Screen Shot](https://i.imgur.com/BWXgVeG.png)](#)<br>
 You lose<br><br>
-</center>
+
 
 ## Licence
 
