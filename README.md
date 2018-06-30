@@ -1,6 +1,7 @@
 # [Swing-Forgger](https://github.com/bokunda/swing-frogger)
 
 Simple Frogger game developed with **Java Swing** library.
+GUI and Engine in separated files.
 
 ## How to Play: 
 The player controls the frog at the bottom of the screen. The goal is to arrive on the goal on the other side of the screen avoiding cars and woods.
